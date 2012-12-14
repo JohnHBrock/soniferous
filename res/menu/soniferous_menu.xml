@@ -1,0 +1,4 @@
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/pause_or_play" android:title="Pause" android:icon="@android:drawable/ic_media_pause"></item>
+        <item android:id="@+id/sort_by" android:title="Sort..." android:icon="@android:drawable/ic_menu_sort_alphabetically"></item>
+    </menu>

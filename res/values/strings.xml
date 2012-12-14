@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SoniferousActivity!</string>
+    <string name="app_name">Soniferous</string>
+    <string name="SoundEnabledIcon"></string>
+    <string name="SoundToggle"></string>
+
+</resources>
