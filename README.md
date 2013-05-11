@@ -1,7 +1,7 @@
 soniferous
 ==========
 
-Detects wifi, Bluetooth, and GPS radio signals, and plays animal sounds to represent each individual device.
+An Android app that detects wifi, Bluetooth, and GPS radio signals, and plays animal sounds to represent each individual device.
 
 Created by John Brock (jhbrock@uci.edu)
 
