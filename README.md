@@ -1,6 +1,5 @@
 soniferous
 ==========
-
 An Android app that detects wifi routers, GPS satellites, and Bluetooth devices, and plays animal sounds based on their radio signals:
 * Wifi routers are represented by cricket chirps, and their volume and pitch is based on the signal strength and frequency of the wifi signal.
 * Bluetooth devices are represented by insect buzzing, and the volume is based on the signal strength.
@@ -8,8 +7,10 @@ An Android app that detects wifi routers, GPS satellites, and Bluetooth devices,
 
 We live in an ocean of radiowaves. Our limited human senses make us oblivious to the chattering wifi routers and GPS satellites and cell phone towers all around us. And as we move about in our daily lives, just as the landscape changes, so does the presence and tenor and shape of this silent cacophony of radiowaves. Soniferous is an attempt to make us aware of these changes and the devices responsible for them.
 
-### Sound Credits
+### Installation
+If you'd like to avoid building the APK from source, Soniferous can be installed directly from the Google Play store at http://play.google.com/store/apps/details?id=brock.soniferous.
 
+### Sound Credits
 The following sounds are based on recordings copyrighted by Raimund Specht, Avisoft Bioacoustics. If you use any of these recordings, please make a note on the origin and add a link to www.avisoft.com.
 
 acheta.ogg  
